@@ -1,5 +1,2 @@
-# Typed Bluebird
-The type definition for [bluebird](https://github.com/petkaantonov/bluebird).
-
-# LICENSE
-MIT
+# Typed Bluebird - Deprecated
+Use [typed-typings/npm-bluebird](https://github.com/typed-typings/npm-bluebird/) instead.
